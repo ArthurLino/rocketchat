@@ -18,4 +18,3 @@ Well, this is my version of the challenge's 4th project, a web chat built from s
 
 <br />
 
-![image](https://user-images.githubusercontent.com/74681686/212741469-3bacf410-fc5d-4a09-ae4b-76c07981b75b.png)
