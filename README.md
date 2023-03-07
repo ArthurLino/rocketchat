@@ -5,7 +5,7 @@ Well, this is my version of the challenge's 4th project, a web chat built from s
 
 <br />
 
-## 👨🏻‍💻 Built with:
+## 👨🏻‍💻 built with
 - ReactTS
 - Tailwind 
 - Tailwind-Styled-Components
